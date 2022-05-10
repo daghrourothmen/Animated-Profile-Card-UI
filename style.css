@@ -166,3 +166,29 @@ body
     color: #999;
     background: #fff;
 }
+
+.swiper
+{
+margin-left: auto;
+margin-right: auto;
+height: 100%;
+width: 100%;
+}
+
+.swiper-slide
+{
+
+background-size: cover;
+
+}
+
+.swiper-slide .card 
+{
+display: block;
+
+}
+.swiper-3d .swiper-slide-shadow-left,
+.swiper-3d .swiper-slide-shadow-right
+{
+    background-image: none;
+}
